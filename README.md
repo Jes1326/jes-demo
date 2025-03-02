@@ -1,2 +1,2 @@
 # jes-demo
-demo repo
+demo repo author - jes
